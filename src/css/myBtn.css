@@ -1,0 +1,21 @@
+.myBtn {
+    margin-top: 50px;
+    font-weight: bold;
+        font-size: 18px;
+        line-height: 55%;
+        text-align: center;
+        color: #FFFFFF;
+        border-radius: 10px;
+        padding: 17px 30px;
+        background-color: #F53B00;
+        border: 1px solid #F53B00;
+        transition: 0.3s;
+        
+}
+
+.myBtn:hover {
+    border: 1px solid #F53B00;
+    color: #F53B00;
+    background: none;
+    transition: 0.3s;
+}
